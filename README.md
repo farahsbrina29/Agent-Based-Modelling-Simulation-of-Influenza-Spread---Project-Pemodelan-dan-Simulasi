@@ -1,4 +1,4 @@
-# Agent-Based-Modelling-Simulation-of-Influenza-Spread-Project-Pemodelan-dan-Simulasi
+# Agent Based Modelling-Simulation of Influenza Spread-Project Pemodelan dan Simulasi
 
 # Simulasi Persebaran Influenza Menggunakan Agent-Based Modeling (ABM)
 
