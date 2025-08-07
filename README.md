@@ -15,7 +15,7 @@ Proyek ini merupakan simulasi sederhana penyebaran penyakit **influenza** menggu
   - `imunitas`: Tingkat kekebalan (0–1)
   - `durasi_infeksi`: Berapa lama agen akan tetap dalam kondisi terinfeksi
   - `radius_infeksi`: Jarak jangkauan agen untuk menularkan flu
-  - 'posisi' : Posisi agen
+  - `posisi` : Posisi agen
 
 ---
 
